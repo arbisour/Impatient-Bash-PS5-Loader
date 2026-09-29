@@ -6,6 +6,7 @@ Y'all are welcome to improve the script until official support improves and incl
 Steps to make this work:
 1. Edit script to replace IP with your ps5 IP
 2. Run jailbreak on your PS5
+(Follow instructions here https://github.com/ntfargo/Relapse-Exploit)
 3. Run Script
 4. Have fun :3
 
