@@ -15,4 +15,4 @@ nc -i1 $PS5_HOST $PS5_PORT < $PS5_PAYLOAD
 # replace payload.elf with whatever.
 
 #export PS5_PAYLOAD=payload.elf
-#nc -q0 $PS5_HOST $PS5_PORT < $PS5_PAYLOAD
+#nc -i1 $PS5_HOST $PS5_PORT < $PS5_PAYLOAD
