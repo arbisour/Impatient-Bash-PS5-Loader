@@ -102,7 +102,7 @@ preSteps (){
     if [ $fileThere = false ]
         then
             clear
-            echo "First start / File Deleted"
+            echo "First start :D"
             echo
             save_ip
             check_file
