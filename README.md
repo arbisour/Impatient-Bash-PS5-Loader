@@ -3,15 +3,18 @@ I got impatient, wrote this by hand, and this works on my 13.20 console.
 Make sure payloads are in the same folder as the script. 
 Y'all are welcome to improve the script until official support improves and includes these.
 
-Steps to make this work:
-1. Edit script to replace IP with your ps5 IP
-2. Run jailbreak on your PS5
-(Follow instructions here https://github.com/ntfargo/Relapse-Exploit)
-3. Run Script
-4. Have fun :3
+NEW UPDATE :D
+Now the script is just another fire and follow the on screen instructions, so here is what you'll do.
+1. Jailbreak the PS5 with your local DNS server + serve.py or just using 45.56.67.85 as the DNS
+2. Make sure all of the .elf files you want are in the elfs/ folder
+3. Run the script
+4. Agree by pressing enter that I'm not responsible if your console catches fire
+5. Follow the on screen instructions
 
-I added an easy copy paste that's commented out if you wanted to load, and the reason -q is changed to -i 
-is because fedora 44 nc doesn't have -q for some reason.
+happy homebrewing :DD
+
 
 
 Credits to ntfargo, ufm42, Sonic_Iso, Jordy, Dr. Yenyen, TheFlow, SlidyBat,  Flatz, cow, nhk, bollarz, Sleirsgoevy, EchoStretch, EarthOnion. 
+
+***i did not use any AI to make this.**
