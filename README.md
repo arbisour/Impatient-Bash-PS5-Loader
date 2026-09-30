@@ -10,7 +10,10 @@ Now the script is just another fire and follow the on screen instructions, so he
 4. Agree by pressing enter that I'm not responsible if your console catches fire
 5. Follow the on screen instructions
 
-happy homebrewing :DD
+<img width="863" height="523" alt="image" src="https://github.com/user-attachments/assets/05fea2e0-c06c-4773-9f9a-5c504cccd499" />
+
+should look like this :)
+happy homebrewing :D
 
 
 
